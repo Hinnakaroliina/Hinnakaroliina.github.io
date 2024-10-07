@@ -1,10 +1,9 @@
-# Henna Nuolioja: web tehtävä 7.10.2024
+## Henna Nuolioja: web tehtävä 7.10.2024
 
-<p>
 
 Okay, it's time to learn some Markdown!
 
-<h2>The first lesson: Italic and bold</h2>
+## The first lesson: Italic and bold
 
 Writing in Markdown is _not_ that hard!
 
@@ -14,7 +13,7 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-<h2>The second lesson: The header</h2>
+## The second lesson: The header
 
 # Header one
 ## Header two
@@ -27,7 +26,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 
-<h2>The third lesson: Links </h2>
+## The third lesson: Links
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
@@ -41,7 +40,7 @@ Here's some words about the book _One Hundred Years..._.
 
 I didn't get the _reference link_ :( 
 
-<h2>The Lesson number four: Images</h2>
+## The Lesson number four: Images
 
 ![A Pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg). 
 
@@ -56,7 +55,7 @@ Not sure did I understand the instructions of black and orange cats. This is my 
 ![Orange cat](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 
 
-<h2>Lesson five: Blockquotes</h2>
+## Lesson five: Blockquotes
 
 I read this interesting quote the other day:
 
@@ -70,7 +69,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-<h2>The sixth lesson: Lists</h2>
+## The sixth lesson: Lists
 
 * Flour
 * Cheese
@@ -105,7 +104,7 @@ I read this interesting quote the other day:
   * Be careful when holding the knife.
 >   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-<h2>Lesson number seven: Paragraphs</h2>
+## Lesson number seven: Paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
@@ -119,5 +118,3 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
-
-</p>
